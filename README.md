@@ -8,6 +8,8 @@ This bot use [MongoDB](https://mongodb.com) for its database, Some files may be 
 
 - [x] Info
 - [x] Moderation
+- [x] Economy
+- [x] RPG
 - [x] Autoresponder
 - [x] Music
 
