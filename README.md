@@ -1,0 +1,2 @@
+# InosukeBot
+Inosuke Bot Discord
