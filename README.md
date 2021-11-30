@@ -3,3 +3,9 @@
 
 ## Self hosting
 This bot use [MongoDB](https://mongodb.com) for its database, Some files may be missing due to security reasons and can be [found](https://)
+
+## Installation
+m
+
+## Contribution
+Join [Support Server](https://discord.gg/nvVjVmTvBj) to contribution
